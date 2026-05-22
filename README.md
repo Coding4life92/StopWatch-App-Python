@@ -7,8 +7,6 @@ A simple terminal stopwatch built with Textual.
 ## 🚀 Setup
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
